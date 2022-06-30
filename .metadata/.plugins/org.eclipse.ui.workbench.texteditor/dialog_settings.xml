@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="lastName"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="duration"/>
+			<item value="txtNumOfPassengers"/>
+			<item value="txtDuration"/>
+			<item value="txtPassengerName"/>
+			<item value="Cruise"/>
+			<item value="Cruises"/>
+			<item value="AddEditCruiseController"/>
+			<item value="tcmPassengerLimit"/>
+			<item value="tcmInservice"/>
+			<item value="tcmPassengerName"/>
+			<item value="tcmPassengerID"/>
+			<item value="PassengerList"/>
+			<item value="PassengerCount"/>
+			<item value="PassengerSet"/>
+			<item value="Ship"/>
+		</list>
+		<list key="replacehistory">
+			<item value="lastName"/>
+			<item value="txtLastName"/>
+			<item value="txtFirstName"/>
+			<item value="Passenger"/>
+			<item value="Passengers"/>
+			<item value="AddEditPassengerController"/>
+			<item value="tcmCruiseName"/>
+			<item value="tcmDateOfBirth"/>
+			<item value="tcmLastName"/>
+			<item value="tcmFirstName"/>
+			<item value="passengerList"/>
+			<item value="passengerCount"/>
+			<item value="passengerSet"/>
+			<item value="cruiseName"/>
+			<item value="dateOfBirth"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="501"/>
+		<item key="DIALOG_Y_ORIGIN" value="289"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
